@@ -1,8 +1,6 @@
 # AI-based Latency Optimization in ORAN for IoT Sensor Networks
 # Work in Progress !
 
-PART I (Sensors 2025)
-
 While the introduction of state-of-the-art ORAN
 systems has granted internet service providers the flexibility
 of disintegrating the Radio Unit, Control Unit and Distributed
