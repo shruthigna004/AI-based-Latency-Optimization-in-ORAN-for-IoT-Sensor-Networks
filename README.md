@@ -1,6 +1,7 @@
-# AI-based-Latency-Optimization-in-ORAN-for-IoT-Sensor-Networks - IEEE SENSORS 2025 
+# IEEE SENSORS 
 # Work in Progress !
 
+PART I
 While the introduction of state-of-the-art ORAN
 systems has granted internet service providers the flexibility
 of disintegrating the Radio Unit, Control Unit and Distributed
@@ -20,3 +21,5 @@ network, the RU, CU and DU of which are built using sensor-
 initiated IoT microcontrollers. The results show that using AI,
 the latency of signal propagation in ORAN is improved by upto
 32.5%
+
+PART 2
