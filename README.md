@@ -1,7 +1,8 @@
 # IEEE SENSORS 
 # Work in Progress !
 
-PART I
+PART I (Sensors 2025)
+
 While the introduction of state-of-the-art ORAN
 systems has granted internet service providers the flexibility
 of disintegrating the Radio Unit, Control Unit and Distributed
@@ -22,4 +23,16 @@ initiated IoT microcontrollers. The results show that using AI,
 the latency of signal propagation in ORAN is improved by upto
 32.5%
 
-PART 2
+PART 2 (Sensors 2026)
+
+Internet of Things (IoT) devices in healthcare have emerged
+as a key enabling technology for next-generation healthcare
+systems. These systems support continuous patient monitoring
+through wearable sensors, smart medical devices, and remote
+diagnostic platforms. A large amount of patient data, such as
+body temperature, blood pressure and heart rate, is collected
+using such devices, which must be transmitted reliably and
+efficiently to healthcare providers. As the number of connected
+healthcare devices continues to increase, communication net-
+works used must simultaneously satisfy the stringent security
+and reliability requirements.
